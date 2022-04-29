@@ -1,5 +1,5 @@
 {
-  "id": "com.seat.connectedcar",
+  "id": "de.myaudi.mobile.assistant",
   "version": "1.0.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
@@ -8,8 +8,8 @@
   ],
   "brandColor": "#000000",
   "name": {
-    "en": "Seat Connect",
-    "nl": "Seat Connect"
+    "en": "MyAudi",
+    "nl": "MyAudi"
   },
   "description": {
     "en": "Simply stay connected",
