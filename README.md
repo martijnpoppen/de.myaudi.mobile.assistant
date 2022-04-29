@@ -1,1 +1,1 @@
-# de.myaudi.mobile.assistant
+com.seat.connectedcar
