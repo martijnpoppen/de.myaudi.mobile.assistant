@@ -6,14 +6,14 @@
   "platforms": [
     "local"
   ],
-  "brandColor": "#000000",
+  "brandColor": "#f22534",
   "name": {
     "en": "MyAudi",
     "nl": "MyAudi"
   },
   "description": {
-    "en": "Simply stay connected",
-    "nl": "Blijf in verbinding"
+    "en": "Always connected",
+    "nl": "Always connected"
   },
   "tags": {
     "en": [
