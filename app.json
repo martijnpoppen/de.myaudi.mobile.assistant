@@ -1,20 +1,20 @@
 {
   "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
   "id": "de.myaudi.mobile.assistant",
-  "version": "1.0.0",
+  "version": "1.7.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
     "local"
   ],
-  "brandColor": "#000000",
+  "brandColor": "#f22534",
   "name": {
     "en": "MyAudi",
     "nl": "MyAudi"
   },
   "description": {
-    "en": "Simply stay connected",
-    "nl": "Blijf in verbinding"
+    "en": "Always connected",
+    "nl": "Always connected"
   },
   "tags": {
     "en": [
@@ -71,7 +71,7 @@
   "bugs": {
     "url": "https://community.homey.app/62196"
   },
-  "source": "https://github.com/martijnpoppen/com.we-volkswagen.connect",
+  "source": "https://github.com/martijnpoppen/de.myaudi.mobile.assistant",
   "homeyCommunityTopicId": 34493,
   "support": "https://community.homey.app/62196",
   "flow": {
@@ -79,8 +79,8 @@
       {
         "id": "is_charging_changed",
         "title": {
-          "en": "Charging has changed",
-          "nl": "Opladen is veranderd"
+          "en": "Started/Stopped charging",
+          "nl": "Gestart/Gestopt met laden"
         },
         "args": [
           {
@@ -103,8 +103,8 @@
       {
         "id": "is_connected_changed",
         "title": {
-          "en": "Connected has changed",
-          "nl": "Verbonden is veranderd"
+          "en": "Connection has changed",
+          "nl": "Verbinding is veranderd"
         },
         "args": [
           {
@@ -127,8 +127,8 @@
       {
         "id": "is_home_changed",
         "title": {
-          "en": "Is vehicle home has changed",
-          "nl": "Is voertuig thuis is veranderd"
+          "en": "Car came/left Home",
+          "nl": "Voertuig thuis / niet thuis"
         },
         "args": [
           {
@@ -151,8 +151,8 @@
       {
         "id": "is_moving_changed",
         "title": {
-          "en": "Is vehicle moving has changed",
-          "nl": "Is voertuig in beweging is veranderd"
+          "en": "Is vehicle moving / not moving",
+          "nl": "Is voertuig in beweging / niet in beweging"
         },
         "args": [
           {
@@ -175,8 +175,8 @@
       {
         "id": "is_plug_connected_changed",
         "title": {
-          "en": "Plug connected has changed",
-          "nl": "Stekker verbonden is veranderd"
+          "en": "Plug connection has changed",
+          "nl": "Stekker verboning is veranderd"
         },
         "args": [
           {
