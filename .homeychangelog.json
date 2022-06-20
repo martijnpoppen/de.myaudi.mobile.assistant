@@ -217,5 +217,8 @@
   },
   "1.7.5": {
     "en": "FIX: Audi Etron login + updates"
+  },
+  "1.8.0": {
+    "en": "NEW: update library + Car updates for Audi / VW / Skoda"
   }
 }
