@@ -214,5 +214,8 @@
   },
   "1.7.4": {
     "en": "FIX: remove is_home for ID and new Etron (not supported)"
+  },
+  "1.7.5": {
+    "en": "FIX: Audi Etron login + updates"
   }
 }
