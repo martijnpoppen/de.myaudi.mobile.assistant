@@ -304,5 +304,8 @@
   },
   "1.12.8": {
     "en": "NEW: add terms and conditions message"
+  },
+  "1.13.0": {
+    "en": "NEW: update library (New API) | FIX: API error"
   }
 }
