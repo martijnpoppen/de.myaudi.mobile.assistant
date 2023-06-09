@@ -1,17 +1,19 @@
 {
-  "id": "com.we-volkswagen.connect",
-  "version": "0.7.4",
+  "id": "de.myaudi.mobile.assistant",
+  "version": "1.16.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "platforms": ["local"],
-  "brandColor": "#000000",
+  "platforms": [
+    "local"
+  ],
+  "brandColor": "#f22534",
   "name": {
-    "en": "VAG Connect",
-    "nl": "VAG Connect"
+    "en": "MyAudi",
+    "nl": "MyAudi"
   },
   "description": {
-    "en": "Simply stay connected",
-    "nl": "Blijf in verbinding"
+    "en": "Always connected",
+    "nl": "Always connected"
   },
   "tags": {
     "en": [
@@ -28,8 +30,12 @@
       "Seat"
     ]
   },
-  "category": ["localization"],
-  "permissions": ["homey:manager:geolocation"],
+  "category": [
+    "localization"
+  ],
+  "permissions": [
+    "homey:manager:geolocation"
+  ],
   "images": {
     "large": "/assets/images/large.jpg",
     "small": "/assets/images/small.jpg"
@@ -67,7 +73,7 @@
   "bugs": {
     "url": "https://community.homey.app/t/app-pro-we-connect-myaudi-myskoda-my-seat-my-cupra/62196"
   },
-  "source": "https://github.com/martijnpoppen/com.we-volkswagen.connect",
+  "source": "https://github.com/martijnpoppen/de.myaudi.mobile.assistant",
   "homeyCommunityTopicId": 62196,
   "support": "https://community.homey.app/t/app-pro-we-connect-myaudi-myskoda-my-seat-my-cupra/62196",
   "api": {
