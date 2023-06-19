@@ -370,5 +370,8 @@
   },
   "1.17.1": {
     "en": "FIX: update audi to new API"
+  },
+  "1.17.2": {
+    "en": "FIX: Audi API mapping"
   }
 }
