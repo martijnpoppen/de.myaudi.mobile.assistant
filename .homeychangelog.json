@@ -415,5 +415,8 @@
   },
   "1.22.1": {
     "en": "FIX: chargingState"
+  },
+  "1.22.2": {
+    "en": "FIX: access token error"
   }
 }
