@@ -1,6 +1,6 @@
 {
   "id": "de.myaudi.mobile.assistant",
-  "version": "1.25.1",
+  "version": "1.25.2",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
