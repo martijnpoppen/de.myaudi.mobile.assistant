@@ -469,5 +469,8 @@
   },
   "1.26.3": {
     "en": " FIX: mapping"
+  },
+  "1.26.4": {
+    "en": "FIX: measure_distance_driven for some models"
   }
 }
