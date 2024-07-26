@@ -472,5 +472,8 @@
   },
   "1.26.4": {
     "en": "FIX: measure_distance_driven for some models"
+  },
+  "1.26.5": {
+    "en": " FIX: fallback mapping"
   }
 }
